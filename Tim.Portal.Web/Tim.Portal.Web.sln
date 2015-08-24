@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim.Portal.Web", "Tim.Portal.Web\Tim.Portal.Web.csproj", "{2C1844DB-E43A-4645-AC79-12777A533707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim.Portal.Web.Tests", "Tim.Portal.Web.Tests\Tim.Portal.Web.Tests.csproj", "{CA8ED201-6253-41B3-913D-BFB8A2BF12B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim.Portal.Business", "Tim.Portal.Business\Tim.Portal.Business.csproj", "{7FB27840-B6CF-45DA-B8DA-F0EB563BBCBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim.Portal.Domain", "Tim.Portal.Domain\Tim.Portal.Domain.csproj", "{526CEE12-2BB7-4959-9105-2E18F717472C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim.Portal.DataAccess", "Tim.Portal.DataAccess\Tim.Portal.DataAccess.csproj", "{D91E3884-8115-4925-A527-20E1DD17C7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim.Portal.Entity", "Tim.Portal.Entity\Tim.Portal.Entity.csproj", "{CA1A40A4-96B5-451E-A7D0-23A1621DCF5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1844DB-E43A-4645-AC79-12777A533707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1844DB-E43A-4645-AC79-12777A533707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1844DB-E43A-4645-AC79-12777A533707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1844DB-E43A-4645-AC79-12777A533707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8ED201-6253-41B3-913D-BFB8A2BF12B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8ED201-6253-41B3-913D-BFB8A2BF12B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8ED201-6253-41B3-913D-BFB8A2BF12B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8ED201-6253-41B3-913D-BFB8A2BF12B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB27840-B6CF-45DA-B8DA-F0EB563BBCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB27840-B6CF-45DA-B8DA-F0EB563BBCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB27840-B6CF-45DA-B8DA-F0EB563BBCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB27840-B6CF-45DA-B8DA-F0EB563BBCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526CEE12-2BB7-4959-9105-2E18F717472C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526CEE12-2BB7-4959-9105-2E18F717472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526CEE12-2BB7-4959-9105-2E18F717472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526CEE12-2BB7-4959-9105-2E18F717472C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91E3884-8115-4925-A527-20E1DD17C7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91E3884-8115-4925-A527-20E1DD17C7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91E3884-8115-4925-A527-20E1DD17C7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91E3884-8115-4925-A527-20E1DD17C7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1A40A4-96B5-451E-A7D0-23A1621DCF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1A40A4-96B5-451E-A7D0-23A1621DCF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1A40A4-96B5-451E-A7D0-23A1621DCF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1A40A4-96B5-451E-A7D0-23A1621DCF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
